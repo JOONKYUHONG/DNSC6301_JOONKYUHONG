@@ -2,7 +2,7 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Joon Kyu Hong, `joonhong96@gwu.edu`
+* **Person or organization developing model**: Joon Kyu Hong, `joonhong96@gwu.edu`, Bhavya Mounika Kundem, "bhavyamounika.kundem@gwu.edu", Man Kuei Chen,  "mankuei.chen@gwu.edu"
 * **Model date**: August 23, 2022
 * **Model version**: 1.0
 * **License**: MIT
