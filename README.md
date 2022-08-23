@@ -65,7 +65,9 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ### Quantitative Analysis
 
 ![Training and Validation AUC](training_validation_auc.png)
+
 ![AIR](AIR.png)
+
 ![Iteration Plot](plot.png)
 
 
