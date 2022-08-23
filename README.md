@@ -66,7 +66,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ![Training and Validation AUC](training_validation_auc.png)
 
-![AIR](AIR.png)
+![AIR](air.png)
 
 ![Iteration Plot](plot.png)
 
