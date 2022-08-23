@@ -12,7 +12,7 @@
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
-* **Primary intended users**: Students in GWU DNSC 6301 bootcamp.
+* **Primary intended users**: Students in GWU DNSC 6301 bootcamp in 2022.
 * **Out-of-scope use cases**: Any use beyond an educational example is out-of-scope.
 
 ### Training Data
@@ -67,3 +67,13 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 #### Correlation Heatmap
 ![Correlation Heatmap](download.png)
 
+
+### Ethical considerations
+
+* **Describe potential negative impacts of using your model**: 
+  * Math or software problems
+  * Real-world risks: who, what, when or how
+* **Describe potential uncertainties relating to the impacts of using your model**:
+  * Math or software problems
+  * Real-world risks: who, what, when or how?
+* **Describe any unexpected or results**:
