@@ -67,26 +67,25 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 #### Correlation Heatmap
 ![Correlation Heatmap](download.png)
 
-
+##### Here are correlations between each two variable as a heatmap
 
 #### Table of Training and Validation AUC
 
 ![Training and Validation AUC](training_validation_auc.png)
 
-* It shows the result of Training and Validation AUC as a table
-
+##### It shows the result of Training and Validation AUC as a table
 
 #### Adverse Impact Ratios (AIR)
 
 ![AIR](air.png)
 
-* Here is the AIR for the final model having each applicable race and sex
+##### Here is the AIR for the final model having each applicable race and sex
 
 #### AIteration Plot
 
 ![Iteration Plot](plot.png)
 
-* Here is the final plot including Training AUC, Validation AUC, and AIR
+##### Here is the final plot including Training AUC, Validation AUC, and AIR
 
 ### Ethical considerations
 
