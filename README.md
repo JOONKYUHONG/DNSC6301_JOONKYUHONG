@@ -108,7 +108,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
   * Math or software problems: 
   * Real-world risks: who, what, when or how 
 * **Describe potential uncertainties relating to the impacts of using your model**:
-  * Math or software problems: Since the test AUC is approximately 70%, it indicates that there is an 30 probability of having an significant error while using the model.
+  * Math or software problems: Since the test AUC is approximately 70%, it indicates that there is an 30% probability of having an significant error while using the model.
   * Real-world risks: who, what, when or how? privacy
 * **Describe any unexpected or results**:
 When it comes to results about the variable importance, pay_0 shows the extremly remarkable output compared to other variables. 
