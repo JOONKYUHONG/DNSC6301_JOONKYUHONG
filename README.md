@@ -69,6 +69,11 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ##### Here are correlations between each two variable as a heatmap
 
+#### Iteration Plot
+![plot](plot_1.png)
+
+###### Here is the initial plot for tree depth vs. Training and Validation AUC
+
 #### Table of Training and Validation AUC
 
 ![Training and Validation AUC](training_validation_auc.png)
@@ -81,7 +86,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ##### Here is the AIR for the final model having each applicable race and sex
 
-#### AIteration Plot
+#### Final Iteration Plot
 
 ![Iteration Plot](plot.png)
 
