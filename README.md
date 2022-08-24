@@ -105,8 +105,8 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ### Ethical considerations
 
 * **Describe potential negative impacts of using your model**: 
-  * Math or software problems: When it comes to operating the decision tree using the data, it is questionable if the privacy and personal information are perfectly protected.
-  * Real-world risks: (who, what, when or how) Someone wants to use this model to check eligibility for a credit line increase and use the customer data history. There is a possibility that people are using this data without any permission and personal information may be leaked during the processing of data.
+  * Math or software problems: When it comes to operating the decision tree model using the data, it is questionable if the privacy and personal information are perfectly protected.
+  * Real-world risks: (who, what, when or how) Someone wants to use this model to check eligibility for a credit line increase and use the customer data history. There is a negative possibility that people are using and sharing this data without any permission and personal information may be leaked during the processing of data.
 * **Describe potential uncertainties relating to the impacts of using your model**:
   * Math or software problems: Since the test AUC is approximately 70%, it indicates that there is an 30% probability of having an significant error while using the model.
   * Real-world risks: ( who, what, when or how) Someone trusts this model too much and reports the result from the decision tree without any specific consideration (ex: changing cutoff or checking any missing value). This hasty decision is likely to cause uncertain damage and negative consequences to the company or individual.
