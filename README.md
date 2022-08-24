@@ -79,7 +79,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ![Training and Validation AUC](training_validation_auc.png)
 
 ##### It shows the result of Training and Validation AUC as a table
-##### Based on the results above, we can find out the result that the difference between Training and Validation AUC becomes wider when tree depth is over 8.
+##### Based on the results above, we can find out the result that the difference between Training and Validation AUC becomes wider when tree depth is over 7.
 
 #### Adverse Impact Ratios (AIR)
 
@@ -94,6 +94,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ![Iteration Plot](plot.png)
 
 ##### Here is the final plot including Training AUC, Validation AUC, and AIR
+##### 
 
 ### Ethical considerations
 
