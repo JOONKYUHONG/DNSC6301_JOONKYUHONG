@@ -109,7 +109,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
   * Real-world risks: (who, what, when or how) Someone wants to use this model to check eligibility for a credit line increase and use the customer data history. There is a possibility that people are using this data without any permission and personal information may be leaked during the processing of data.
 * **Describe potential uncertainties relating to the impacts of using your model**:
   * Math or software problems: Since the test AUC is approximately 70%, it indicates that there is an 30% probability of having an significant error while using the model.
-  * Real-world risks: ( who, what, when or how) Person trusts this model too much and reports the result without any specific consideration (ex: changing cutoff or checking any missing value). This hasty decision is likely to cause great damage and negative consequences to the company or individual.
+  * Real-world risks: ( who, what, when or how) Someone trusts this model too much and reports the result from the decision tree without any specific consideration (ex: changing cutoff or checking any missing value). This hasty decision is likely to cause uncertain damage and negative consequences to the company or individual.
 * **Describe any unexpected or results**:
 When it comes to results about the variable importance, pay_0 shows the extremly remarkable output compared to other variables. 
 In other words, if there is an error or unexpected change or missing value in pay_0, we can have unexpected results that we cannot predict and result will be extremely different.
