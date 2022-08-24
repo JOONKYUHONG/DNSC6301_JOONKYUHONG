@@ -64,20 +64,25 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ```
 ### Quantitative Analysis
 
-* **Table of Training and Validation AUC**
+#### Correlation Heatmap
+![Correlation Heatmap](download.png)
+
+
+
+#### Table of Training and Validation AUC
 
 ![Training and Validation AUC](training_validation_auc.png)
 
 * It shows the result of Training and Validation AUC as a table
 
 
-* **AIR and confusion matrices**
+#### Adverse Impact Ratios (AIR)
 
 ![AIR](air.png)
 
-* Here is the AIR for the final model
+* Here is the AIR for the final model having each applicable race and sex
 
-* **AIteration Plot**
+#### AIteration Plot
 
 ![Iteration Plot](plot.png)
 
