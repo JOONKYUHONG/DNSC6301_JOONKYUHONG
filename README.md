@@ -111,4 +111,5 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
   * Math or software problems
   * Real-world risks: who, what, when or how? privacy
 * **Describe any unexpected or results**:
-no missing value
+When it comes to results about the variable importance, pay_0 shows the extremly remarkable output compared to other variables. 
+In other words, if there is a change in pay_0, we can have unexpected results that we cannot predict. 
