@@ -68,20 +68,20 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ![Training and Validation AUC](training_validation_auc.png)
 
-* **It shows the result of Training and Validation AUC as a table**
+* It shows the result of Training and Validation AUC as a table
 
 
 * **AIR and confusion matrices**
 
 ![AIR](air.png)
 
-* **Here is the AIR for the final model**
+* Here is the AIR for the final model
 
 * **AIteration Plot**
 
 ![Iteration Plot](plot.png)
 
-* **Here is the final plot including Training AUC, Validation AUC, and AIR**
+* Here is the final plot including Training AUC, Validation AUC, and AIR
 
 ### Ethical considerations
 
