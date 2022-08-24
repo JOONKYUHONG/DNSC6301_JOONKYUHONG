@@ -79,12 +79,15 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ![Training and Validation AUC](training_validation_auc.png)
 
 ##### It shows the result of Training and Validation AUC as a table
+##### Based on the results above, we can find out the result that the difference between Training and Validation AUC becomes wider when tree depth is over 8.
 
 #### Adverse Impact Ratios (AIR)
 
 ![AIR](air.png)
 
 ##### Here is the AIR for the final model having each applicable race and sex
+##### Using 0.18 cutoff based on the accuracy trend as cutoff increases. (Accuracy at cutoff 0.17 is: 0.6321 but Accuracy at cutoff 0.18 becomes 0.7384)
+
 
 #### Final Iteration Plot
 
