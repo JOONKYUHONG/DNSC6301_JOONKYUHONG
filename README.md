@@ -8,7 +8,7 @@
 * **Model date**: August 23, 2022
 * **Model version**: 1.0
 * **License**: MIT
-* **Model implementation code**: [Modeling_Project_Deliverables_Group20.ipynb](Modeling_Project_Deliverables_Group20.ipynb)
+* **Model implementation code**: [Modeling_Project_Deliverables_Group_20.ipynb](Modeling_Project_Deliverables_Group_20.ipynb)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
