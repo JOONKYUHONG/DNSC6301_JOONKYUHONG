@@ -52,7 +52,8 @@
 * **Column(s) used as target(s) in the final model**: 'DELINQ_NEXT'
 * **Type of model**: Decision Tree 
 * **Software used to implement the model**: Python, scikit-learn
-* **Version of the modeling software**: 0.22.2.post1
+* **Version of the modeling software**: Python version: 3.7.13
+sklearn version: 1.0.2
 * **Hyperparameters or other settings of your model**: 
 ```
 DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
@@ -67,7 +68,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 #### Correlation Heatmap
 ![Correlation Heatmap](download.png)
 
-##### Here are correlations between each two variable as a heatmap
+##### Pairwise Pearson correlation for the training data.
 
 #### Iteration Plot
 ![plot](plot_1.png)
@@ -78,7 +79,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ![Training and Validation AUC](training_validation_auc.png)
 
-##### It shows the result of Training and Validation AUC as a table
+##### Table of Training and Validation AUC
 ##### Based on the results above, we can find out the result that the difference between Training and Validation AUC becomes wider when tree depth is over 6.
 
 
