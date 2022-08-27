@@ -84,7 +84,6 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 
 #### Test Data 
-![Test_data](test_data.png)
 
 ##### We can get the 0.7438 AUC by using the test data.
 
